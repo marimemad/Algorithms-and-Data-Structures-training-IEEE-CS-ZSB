@@ -1,0 +1,21 @@
+Day1)
+
+    DieRoll-----> o(1)
+    Left Rotation----->o(n)
+    
+    
+Day2)
+    
+    Find Merge Point of Two Lists---->o(2n+m)    
+        n=len1
+        m=len2
+        suppose n>m
+        time=o(2n+m)
+        
+    Ksenia and Pan Scales----->o(n+m)
+    
+    
+Day3)
+
+    Largest Rectangle---->o(n)
+    BowWow and the Timetable---->o(n)
