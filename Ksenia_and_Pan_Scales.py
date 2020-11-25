@@ -20,13 +20,14 @@ If there are multiple answers, print any of them.
 def Balance(scales,unscales):
     right,left=scales.split('|')
     
-    
-    if len(right)<len(left):
+    len1=len(right)
+    len2=len(left)
+    if len1<len2:
         right+=unscales
     else:
         left+=unscales
         
-    if len(right)==len(left):
+    if len1==len2:
         return(right+'|'+left)
     else:
         return('Impossible')
