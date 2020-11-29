@@ -25,7 +25,7 @@ import sys
 #  1. INTEGER d
 #  2. INTEGER_ARRAY arr
 #
-
+ #time=o(n)
 def rotateLeft(d, arr):
     # Write your code here
     for i in range(d):
