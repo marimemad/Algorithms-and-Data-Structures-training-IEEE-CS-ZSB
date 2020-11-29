@@ -24,7 +24,7 @@ solving Problems for data structures and algorithms
 
 [Cycle_Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)
 
-[Flipping_the_Matrix(https://www.hackerrank.com/challenges/flipping-the-matrix/problem)
+[Flipping_the_Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem)
 
 ## Day 6
 
