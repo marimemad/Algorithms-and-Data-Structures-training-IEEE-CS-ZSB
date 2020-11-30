@@ -45,3 +45,9 @@ solving Problems for data structures and algorithms
 [Snacktower](https://codeforces.com/problemset/problem/767/A )
 
 [Defanging_an_IP_Address](https://leetcode.com/problems/defanging-an-ip-address/)
+
+## Day 9
+
+[Registration system](https://codeforces.com/contest/4/problem/C)
+
+[Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A)
