@@ -12,7 +12,7 @@ Print n lines, which are system responses to the requests: OK in case of success
 '''
 
 
-#time=o(n)
+#time=o(n^2)
 def registar(n):
     names=dict()
     

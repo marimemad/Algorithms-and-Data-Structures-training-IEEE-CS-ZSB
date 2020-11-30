@@ -40,7 +40,7 @@ Output n lines each containing either "YES" or "NO" (without quotes), depending 
             
             
             
-#time=o(n)
+#time=o(n^2)
 def is_repeted(n):
     names=dict()
     
