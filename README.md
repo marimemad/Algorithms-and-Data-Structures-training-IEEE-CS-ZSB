@@ -51,3 +51,7 @@ solving Problems for data structures and algorithms
 [Registration system](https://codeforces.com/contest/4/problem/C)
 
 [Tom Riddle's Diary](https://codeforces.com/contest/855/problem/A)
+
+## Day 10
+
+[Amusing Joke](https://codeforces.com/problemset/problem/141/A)
