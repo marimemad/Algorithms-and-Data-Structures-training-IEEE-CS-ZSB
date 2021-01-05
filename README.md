@@ -55,3 +55,9 @@ solving Problems for data structures and algorithms
 ## Day 10
 
 [Amusing Joke](https://codeforces.com/problemset/problem/141/A)
+
+## Day 11
+
+[Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)
+[Kuriyama Mirai's Stones](https://codeforces.com/problemset/problem/433/B)
+[Doggo Recoloring](https://codeforces.com/contest/1025/problem/A)
