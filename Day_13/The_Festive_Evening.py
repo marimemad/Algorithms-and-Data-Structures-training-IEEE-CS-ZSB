@@ -23,3 +23,6 @@ if __name__=='__main__':
     n,k=list (map(int,input().split() ))
     guest=input()
     print(if_unguarded(n,k,guest))
+
+
+#time=o(n)
