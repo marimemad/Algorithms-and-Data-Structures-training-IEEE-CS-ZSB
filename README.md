@@ -71,3 +71,6 @@ solving Problems for data structures and algorithms
 ## Day 13
 
 [The_Festive_Evening](https://codeforces.com/problemset/problem/834/B)
+
+## Day 14
+[Karen_and_Coffee](https://codeforces.com/contest/816/problem/B )
