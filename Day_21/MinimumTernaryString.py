@@ -3,8 +3,10 @@ if __name__ == '__main__':
 
     len1=s.count('1')
     index2=s.find('2')
-    if index2=='-1':
-        print(s.sort())
+    if index2==-1:
+        s=list(s)
+        s.sort()
+        print(''.join(s))
 
     else:
         temp=s[:index2]
