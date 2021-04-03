@@ -74,3 +74,18 @@ solving Problems for data structures and algorithms
 
 ## Day 14
 [Karen_and_Coffee](https://codeforces.com/contest/816/problem/B )
+
+## Day 16
+[Sam_and_substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem )
+
+## Day 18
+[Raising Bacteria]( https://codeforces.com/problemset/problem/579/A )
+
+## Day 19
+[Fedor and New Game](https://codeforces.com/problemset/problem/467/B )
+
+## Day 20
+[Summer sell-off](https://codeforces.com/contest/810/problem/B )
+
+## Day 21
+[minimum Ternary String](https://codeforces.com/contest/1009/problem/B )
