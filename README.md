@@ -89,3 +89,16 @@ solving Problems for data structures and algorithms
 
 ## Day 21
 [minimum Ternary String](https://codeforces.com/contest/1009/problem/B )
+
+## Day 22
+[Towers](https://codeforces.com/contest/479/problem/B)
+
+## Day 24
+[DZY Loves Physics](https://codeforces.com/contest/445/problem/C)
+
+## Day 25
+[Geometric Progression](https://codeforces.com/contest/567/problem/C)
+
+## Day 26
+[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)
+
