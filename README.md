@@ -102,3 +102,8 @@ solving Problems for data structures and algorithms
 ## Day 26
 [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)
 
+## Day 31
+[Fence](https://codeforces.com/contest/363/problem/B)
+
+## Day 32
+[FacetookPriorityWall](https://www.hackerrank.com/challenges/the-power-sum/problem)
